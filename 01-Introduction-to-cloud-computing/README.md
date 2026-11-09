@@ -312,6 +312,3 @@ Try answering these questions without referring to the notes.
 
 ---
 
-**Day 1 Complete: Introduction to Cloud Computing**
-
-Next: **Day 2 – AWS Global Infrastructure: Regions, Availability Zones and Edge Locations.**
